@@ -1,0 +1,22 @@
+/*.test{
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	margin: 30px;
+	background: lime;
+}*/
+/**{
+	font-size: 32px;
+	padding: 20px;
+	text-align: center;
+}
+.acc-head{
+	background: orange;
+}
+.acc-body{
+	background: blue;
+	display: none;
+}*/
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
